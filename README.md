@@ -1,2 +1,2 @@
 # python-exercises
-Practice with Python. 
+This repository will stores exercises using Python in preparation for interviews. 
